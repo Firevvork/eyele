@@ -10,3 +10,4 @@ Beautiful Colors Lookup in CLI
 ## Todo
 
 - [ ] 增加汉字搜索功能（eg: bun cli.ts 茶）
+- [ ] 增加中国传统颜色支持

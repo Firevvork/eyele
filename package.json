@@ -4,7 +4,11 @@
   "type": "module",
   "devDependencies": {
     "@types/bun": "^1.1.6",
-    "bun-types": "latest"
+    "@types/chroma-js": "^2.4.4",
+    "@types/color-namer": "^1.3.3",
+    "bun-types": "latest",
+    "chroma-js": "^2.4.2",
+    "color-namer": "^1.4.0"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
